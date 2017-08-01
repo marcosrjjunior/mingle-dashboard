@@ -1,0 +1,28 @@
+.Story-card {
+  height: 169px;
+  min-width: 268px;
+}
+
+.Story-card-header {
+  font-size: 14px;
+}
+
+.Story-card-content {
+  padding: 0.4rem;
+}
+
+.Low {
+  border-left: 5px solid #EAEB55;
+}
+
+.Medium {
+  border-left: 5px solid #EB9955;
+}
+
+.High {
+  border-left: 5px solid #D4292B;
+}
+
+.Story-m0 {
+  margin-top: 0px;
+}

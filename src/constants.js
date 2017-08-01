@@ -1,0 +1,1 @@
+export default API_URL = "partnerfusion.mingle.thoughtworks.com/api/v2/";
